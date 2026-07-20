@@ -1,0 +1,66 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.container {
+    background-color: #585857;
+    margin: 1rem;
+    padding: 0.1rem 0;
+    border-radius: 1rem;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.lasagna-img, .pasta-img {
+    width: 450px;
+}
+
+.steaks-img {
+    width: 840px;
+}
+
+h3 {
+    background-color: #7c8084;
+    padding: 1rem;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.description-content {
+    padding: 0.5rem 1rem;
+    text-align: center;
+}
+
+ul, 
+ol {
+    background-color: #9b9894;
+    padding: 1rem 2.5rem;
+    width: 20rem;
+    margin: 0.2rem auto;
+    border-radius: 0.7rem;
+}
+
+li {
+    margin: 0.8rem auto;
+}
+
+.home-link {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.5rem 2.5rem;
+    width: 20rem;
+    margin: 1rem auto;
+    background-color: #1b1713;
+    border: 3px solid #9b9894;
+    border-radius: 0.7rem;
+}
