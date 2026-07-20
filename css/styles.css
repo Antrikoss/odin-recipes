@@ -1,0 +1,49 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+.container {
+    background-color: rgb(49, 97, 252);
+    padding: 1rem 2rem;
+    width: 80%;
+    margin: 0.5rem auto;
+    border-radius: 0.7rem;
+    border: 5px solid #48463e;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-size: 3rem;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    background-color: #4d779c;
+    margin: 0.5rem auto;
+    width: 10rem;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 0.6rem;
+    border: 3px solid #cfc8b3;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.4rem;
+}
+
+.lasagna-link {
+    display: block;
+    padding-top: 1.5rem;
+}
+
+.pasta-link {
+    display: block;
+    padding-top: 0.8rem;
+}
